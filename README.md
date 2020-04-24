@@ -5,4 +5,4 @@ Implementar el código que se mostró en clases (ambos programas) y medir su tie
 
 
 ## Taller Nro. 2
-Implemente un programa concurrente que una vez calculada la suma de los elementos de cada fila, sume esos resultados y calcule un único valor. Utilice únicamento los elementos (clases, interfaces) estudiados hasta el momento. 
+Implemente un programa concurrente que una vez calculada la suma de los elementos de cada fila, sume esos resultados y calcule un único valor. Utilice únicamento los elementos (clases, interfaces) estudiados hasta el momento. El código que usará como base, está disponible en la carpeta *taller2* 
